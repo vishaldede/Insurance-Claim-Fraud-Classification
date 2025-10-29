@@ -5,18 +5,6 @@ This project demonstrates the **end-to-end Data Science lifecycle** — from raw
 
 ---
 
-## 📚 Table of Contents
-
-1. [Overview](#overview)
-2. [Objectives](#objectives)
-3. [Dataset](#dataset)
-4. [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
-5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-6. [Model Training & Evaluation](#model-training--evaluation)
-7. [Model Deployment](#model-deployment)
-
----
-
 ## 🧠 Overview
 
 Insurance fraud causes billions in losses globally.  
