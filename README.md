@@ -63,21 +63,9 @@ Performed using **Pandas** and **NumPy**:
 
 Conducted using **Matplotlib**, **Seaborn**, and **SQL**.
 
-### SQL Insights:
-1. Top states with highest fraud rates  
-2. Average claim amount by severity  
-3. Fraud distribution by gender  
-4. Outlier detection (claim amount & deductible)  
-5. Missing data reports  
-6. Duplicates and data validation checks  
-7. Fraud trends by customer tenure  
+### SQL Insights
 
 ### Visual EDA (Pandas + Seaborn):
-- Correlation Heatmap  
-- Boxplots for outlier detection  
-- Fraud ratio by policy state  
-- Claim amount vs Deductible scatter plots  
-- Tenure vs Fraud probability trends  
 
 ---
 
@@ -87,8 +75,6 @@ Conducted using **Matplotlib**, **Seaborn**, and **SQL**.
 - Logistic Regression  
 - Decision Tree Classifier  
 - Random Forest Classifier  
-- Gradient Boosting Classifier  
-- XGBoost Classifier  
 - K-Nearest Neighbors  
 - Support Vector Machine  
 
