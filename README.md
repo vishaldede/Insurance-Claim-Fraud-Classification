@@ -11,7 +11,7 @@ Insurance fraud causes billions in losses globally.
 This project builds a **fraud classification model** that predicts whether an insurance claim is **fraudulent (1)** or **legitimate (0)**.  
 
 It includes:
-- **Synthetic but realistic data** generation (10,000 records)
+- **Dataset with 10,000 records**
 - **Data cleaning & preprocessing** (handling errors, missing values, outliers)
 - **EDA** for data understanding
 - **Supervised ML models** for classification
@@ -36,10 +36,10 @@ It includes:
 |----------|--------------|
 | policy_id | Unique policy identifier |
 | policy_state | US state code |
-| policy_deductible | Deductible amount in USD |
+| policy_deductible | Deductible amount |
 | insured_sex | Gender of insured |
 | incident_severity | Severity of the incident |
-| vehicle_claim_amount | Claimed amount in USD |
+| vehicle_claim_amount | Claimed amount |
 | vehicle_age | Vehicle age in years |
 | num_of_claims | Number of previous claims |
 | customer_tenure | Customer tenure in years |
@@ -74,9 +74,9 @@ Conducted using **Matplotlib**, **Seaborn**, and **SQL**.
 ### Algorithms Tested
 - Logistic Regression  
 - Decision Tree Classifier  
-- Random Forest Classifier  
-- K-Nearest Neighbors  
-- Support Vector Machine  
+- Random Forest Classifier
+- Support Vector Machine
+- K-Nearest Neighbors
 
 ### Evaluation Metrics
 - **Accuracy**
