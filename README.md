@@ -37,13 +37,13 @@ It includes:
 | policy_id | Unique policy identifier |
 | policy_state | US state code |
 | policy_deductible | Deductible amount |
-| insured_sex | Gender of insured |
+| Gender | Gender |
 | incident_severity | Severity of the incident |
 | vehicle_claim_amount | Claimed amount |
 | vehicle_age | Vehicle age in years |
 | num_of_claims | Number of previous claims |
 | customer_tenure | Customer tenure in years |
-| fraud_reported | Target variable (1 = Fraud, 0 = Genuine) |
+| fraud_reported | Target variable (1 = Fraud, 0 = Real) |
 
 ---
 
